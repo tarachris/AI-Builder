@@ -1,5 +1,5 @@
 # AI-Builder
-AI-Builder
+ Costikyan AI-Builder
 
 Purpose:
 Cleans, preserves, restores and installs rugs, carpet, upholstery, and drapery. 
@@ -77,3 +77,5 @@ Q&A
 
 What does Costikyan do?
 What are your prices to clean my rug?
+How Can I schedule a pick-up for my rug?
+How can I schedule a drop-off for my rug?
