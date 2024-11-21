@@ -14,6 +14,88 @@ First-time callers
 Profile (Information from the Client; client website; company data; copy and past from client's website):
 Mission Statement
 Costikyan's mission, established since 1886, remains steadfast in setting the standard for luxury preservation, installation, and fabrication services dedicated to rugs, carpet, upholstery, and drapery. Our unwavering commitment to unparalleled quality and craftsmanship drives us to merge cutting-edge technology with time-tested techniques, ensuring that we continue to be a leader within our industry.
+
+Protection
+Fiber-Shield®
+Stain Treatments
+Costikyan offers a variety of exclusive advanced treatments that are designed to protect a diverse range of fabrics and carpets from waterborne, oil-borne, and soilborne stains.
+
+Costikyan Exclusive
+
+Stain Treatments
+Our Fiber-Shield®, Faux-Shield, and Sisal-Shield textile protectors are a practical and cost-effective approach to getting the most out of any furnishing investment. Try them out to effectively:
+
+
+Repel liquid, soil, and oils
+
+
+Reduce wear and tear and fading
+
+
+Improve clean ability and extend time between cleanings
+
+
+Provide static control and act as a disinfectant
+
+Fiber-Shield®
+Textile Protection
+Available exclusively through Costikyan, Fiber-Shield® textile protector protects the integrity of fabric and extends the life of your valuable furnishings. It can be applied within 10-30 minutes to all types of soft surfaces: fabric and leather upholstery, rugs, carpeting, window treatments, and wall coverings without changing texture or appearance. 
+
+
+Fiber-Shield®
+Advantage
+Fiber-Shield® textile protector is not a surface coating but an example of the latest chemical technology utilizing crosslinking of new age polymers to fibers. Each fiber is impregnated with millions of string-like fluorochemical umbrellas that surround each fiber in a protective barrier. The protection does not readily break down with use or cleaning. Fiber-Shield® protection is uniform throughout each fiber and does not change the breathability of the material. 
+
+
+Fiber-Shield®
+For Designers
+Fiber-Shield® textile protector provides stronger resistance than any other protector available and is used by hundreds of interior designers and architects. It is accepted by the American Society of Interior Designers (ASID) who rely on Costikyan as an authorized applicator of Fiber-Shield®.
+
+Fiber-Shield®
+
+Guarantee
+Hypoallergenic
+Eco-friendly And Non-toxic
+Nonflammable
+Browse Our Site
+Home
+About
+Clean
+Restoration
+Protection
+Fiber-Shield®
+Padding Options
+Flameproofing
+Workroom
+Trade
+Testimonials
+Blog
+Contact
+Contact Information
+Phone Number: 800-247-7847﻿
+
+Email: info@costikyan.com
+
+Connect With Us
+ 
+ 
+Locations
+37-11 48th Avenue,  Long Island City, NY 11101
+
+163 East Union Avenue, East  Rutherford, NJ 07073
+
+Costikyan Boston:
+Address: 1 New Boston Dr, Canton, MA 02021 
+
+Phone: 888-432-1266
+
+Business Hours
+Monday – Friday 9:00 am – 5:00 pm
+
+Saturday and Sunday – Closed
+
+
+As Seen In Copyright © 2022 Costikyan | Website Designed by New Wave Digital Designs
 Explain phone numbers!
 ****How do you handle undesirable conversations?**** (type into the box as a part of PROMPT ENGINEERING)
 ***
