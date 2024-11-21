@@ -23,6 +23,11 @@ Can you tell me where is the Post Office?
 Answer: Sorry, I can only share information about Costikyan's services.
 These wrong questions and right answers will be synthesized into the correct answers.
 
+Q: Do you buy rugs?
+Answer: Sorry, we do not buy rugs.
+
+Q: 
+
 Call Costikyan today for a free estimate or in-home consultation or use the form below. Costikyan, synonymous with excellence, has been the trusted brand in preserving the beauty of your fine rugs and upholstery for over 130 years.
 
 Call Costikyan at 800-247-7847 
