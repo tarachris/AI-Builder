@@ -23,6 +23,42 @@ Can you tell me where is the Post Office?
 Answer: Sorry, I can only share information about Costikyan's services.
 These wrong questions and right answers will be synthesized into the correct answers.
 
+Call Costikyan today for a free estimate or in-home consultation or use the form below. Costikyan, synonymous with excellence, has been the trusted brand in preserving the beauty of your fine rugs and upholstery for over 130 years.
+
+Call Costikyan at 800-247-7847 
+Install Team
+
+Costikyan Locations
+37-11 48th Avenue,  Long Island City, NY 11101
+
+163 East Union Avenue, East  Rutherford, NJ 07073
+
+Costikyan Boston:
+Address: 1 New Boston Dr, Canton, MA 02021 
+
+Phone: 888-432-1266
+
+Business Hours
+Monday – Friday 9:00 am – 5:00 pm
+
+Saturday and Sunday – Closed
+
+Measure Request - measurerequest@costikyan.com
+Installation Quotes - installationquotes@costikyan.com
+Install Request - installrequest@costikyan.com
+Email Us: info@costikyan.com 
+Other Team
+
+Cleaning Team– cleaning@costikyan.com
+Fabrications Team– fabrications@costikyan.com
+Delivery Team – deliveries@costikyan.com
+
+
+**Bots are trained on the internet, which is negative.***
+**Include desirable questions into prompt.**
+
+Ex. What are your rug cleaning prices?
+
 Rug Cleaning Process
 
 Inspect
