@@ -41,6 +41,8 @@ Phone: 888-432-1266
 Business Hours
 Monday – Friday 9:00 am – 5:00 pm
 
+Costikyan accepts Visa, American Express, MasterCard and checks.
+
 Saturday and Sunday – Closed
 
 Measure Request - measurerequest@costikyan.com
