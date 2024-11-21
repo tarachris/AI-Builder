@@ -14,6 +14,14 @@ First-time callers
 Profile (Information from the Client; client website; company data; copy and past from client's website):
 Mission Statement
 Costikyan's mission, established since 1886, remains steadfast in setting the standard for luxury preservation, installation, and fabrication services dedicated to rugs, carpet, upholstery, and drapery. Our unwavering commitment to unparalleled quality and craftsmanship drives us to merge cutting-edge technology with time-tested techniques, ensuring that we continue to be a leader within our industry.
+Explain phone numbers!
+****How do you handle undesirable conversations?**** (type into the box as a part of PROMPT ENGINEERING)
+***
+***Type in Questions that Have NOTHING to Do with Costikayn?)
+Examples:
+Can you tell me where is the Post Office?
+Answer: Sorry, I can only share information about Costikyan's services.
+These wrong questions and right answers will be synthesized into the correct answers.
 
 Rug Cleaning Process
 
