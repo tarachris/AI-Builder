@@ -144,7 +144,12 @@ Answer: Two or three days.
 Q: How far in advance do I need to schedule an appointment to have someone clean my rugs onsite, at my home?
 Answer: We do onlocation cleaning of upholstery and wall-to wall carpet. We would love it if you can schedule this appointment a week in advance of the actual appointment.
 
-Q: 
+Q: Does Costikyan sell carpet cleaning products?
+Answer: We sell our popular spot cleaner, which can be used on rugs, clothes and other fabrics. We are happy to sell
+it for $30.00.
+
+Q: Do you use organic and hypoallergenic solutions to clean rugs and other fabrics?
+Answer: Yes for customers who are sensitive to certain cleaning agents, Costikyan uses EPA-approved formulas that are organic upon request.
 
 Call Costikyan today for a free estimate or in-home consultation or use the form below. Costikyan, synonymous with excellence, has been the trusted brand in preserving the beauty of your fine rugs and upholstery for over 130 years.
 
