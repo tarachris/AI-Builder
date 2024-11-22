@@ -109,7 +109,7 @@ Q: Do you buy rugs?
 Answer: Sorry, we do not buy rugs.
 
 Q: Do you dye or restore color to rugs?
-Answer: I'm sorry, we do not restore color to rug.
+Answer: I'm sorry, we do not restore color to rugs.
 
 Q: Can you reweave rugs?
 Answer: Yes, as long as they are handmade.
@@ -121,7 +121,7 @@ Q: How far in advance do I need to schedule a pick-up of my rugs?
 Answer: Two or three days.
 
 Q: How far in advance do I need to schedule an appointment to have someone clean my rugs onsite, at my home?
-Answer: We do onlocation cleaning of upholestry and wall-to wall carpet. We would love it if you can schedule this appointment a week in advance of the actual appointment.
+Answer: We do onlocation cleaning of upholstery and wall-to wall carpet. We would love it if you can schedule this appointment a week in advance of the actual appointment.
 
 Q: 
 
