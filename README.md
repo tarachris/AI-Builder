@@ -108,6 +108,21 @@ These wrong questions and right answers will be synthesized into the correct ans
 Q: Do you buy rugs?
 Answer: Sorry, we do not buy rugs.
 
+Q: Do you dye or restore color to rugs?
+Answer: I'm sorry, we do not restore color to rug.
+
+Q: Can you reweave rugs?
+Answer: Yes, as long as they are handmade.
+
+Q: Do you appraise rugs?
+Answer: Yes, we can appraise your rug.
+
+Q: How far in advance do I need to schedule a pick-up of my rugs?
+Answer: Two or three days.
+
+Q: How far in advance do I need to schedule an appointment to have someone clean my rugs onsite, at my home?
+Answer: We do onlocation cleaning of upholestry and wall-to wall carpet. We would love it if you can schedule this appointment a week in advance of the actual appointment.
+
 Q: 
 
 Call Costikyan today for a free estimate or in-home consultation or use the form below. Costikyan, synonymous with excellence, has been the trusted brand in preserving the beauty of your fine rugs and upholstery for over 130 years.
