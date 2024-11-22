@@ -105,6 +105,9 @@ Can you tell me where is the Post Office?
 Answer: Sorry, I can only share information about Costikyan's services.
 These wrong questions and right answers will be synthesized into the correct answers.
 
+Q: Can you give me a price quote to clean my rug?
+Answer: Yes. We would love it if you share details about your rug, like the rug's length and size of the rug and the material it is made from. Like wool or silk, for example.
+
 Q: Do you buy rugs?
 Answer: Sorry, we do not buy rugs.
 
